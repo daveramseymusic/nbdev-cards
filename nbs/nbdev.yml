@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-cards"
+  site-url: "https://daveramseymusic.github.io/nbdev-cards"
+  description: "this is following Jeremy Howard's live coding with nbdev making a deck of cards"
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/nbdev-cards"
